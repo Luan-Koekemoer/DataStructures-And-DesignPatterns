@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "libDesignPatterns/1.0.0": {
+        "runtime": {
+          "libDesignPatterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "libDesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

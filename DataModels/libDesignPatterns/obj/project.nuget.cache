@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pvjSYBUV4TKzaxr5gM2tJK5uMWUtKtgEgX/uS1UegvO8EYm2A0AqJWkH1xTQyjBsohcgGhiTisQUDLuYP9o4g==",
+  "success": true,
+  "projectFilePath": "/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/libDesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "/home/luan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

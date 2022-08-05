@@ -1,0 +1,12 @@
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/bin/Debug/net6.0/libDesignPatterns.deps.json
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/bin/Debug/net6.0/libDesignPatterns.dll
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/bin/Debug/net6.0/ref/libDesignPatterns.dll
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/bin/Debug/net6.0/libDesignPatterns.pdb
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/obj/Debug/net6.0/libDesignPatterns.csproj.AssemblyReference.cache
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/obj/Debug/net6.0/libDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/obj/Debug/net6.0/libDesignPatterns.AssemblyInfoInputs.cache
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/obj/Debug/net6.0/libDesignPatterns.AssemblyInfo.cs
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/obj/Debug/net6.0/libDesignPatterns.csproj.CoreCompileInputs.cache
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/obj/Debug/net6.0/libDesignPatterns.dll
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/obj/Debug/net6.0/ref/libDesignPatterns.dll
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/obj/Debug/net6.0/libDesignPatterns.pdb

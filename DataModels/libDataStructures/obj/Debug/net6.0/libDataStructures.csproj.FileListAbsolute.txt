@@ -1,0 +1,12 @@
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/bin/Debug/net6.0/libDataStructures.deps.json
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/bin/Debug/net6.0/libDataStructures.dll
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/bin/Debug/net6.0/ref/libDataStructures.dll
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/bin/Debug/net6.0/libDataStructures.pdb
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/obj/Debug/net6.0/libDataStructures.csproj.AssemblyReference.cache
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/obj/Debug/net6.0/libDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/obj/Debug/net6.0/libDataStructures.AssemblyInfoInputs.cache
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/obj/Debug/net6.0/libDataStructures.AssemblyInfo.cs
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/obj/Debug/net6.0/libDataStructures.csproj.CoreCompileInputs.cache
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/obj/Debug/net6.0/libDataStructures.dll
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/obj/Debug/net6.0/ref/libDataStructures.dll
+/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/obj/Debug/net6.0/libDataStructures.pdb

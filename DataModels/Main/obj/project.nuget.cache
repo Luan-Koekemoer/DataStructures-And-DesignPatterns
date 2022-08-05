@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KlpSntmEysgGQbyVjesL2rhgyWT4rYMWf9CWUf6GoMgX14qSUIrgIsV5RlAFxfu/uEHnNkB+EJPfXKpC+t33Ww==",
+  "success": true,
+  "projectFilePath": "/home/luan/ComputerScience/Programming/CSharp/DataModels/Main/Main.csproj",
+  "expectedPackageFiles": [
+    "/home/luan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

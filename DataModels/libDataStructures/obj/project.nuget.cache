@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3XhWvtQFnhICMtdkDMJjoL7v1p2TjNLcqONEZao2O8lKnG9iRQ/YLsAe+AfgL4aESze51DBeAzTfs4DUwKwjQ==",
+  "success": true,
+  "projectFilePath": "/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/libDataStructures.csproj",
+  "expectedPackageFiles": [
+    "/home/luan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

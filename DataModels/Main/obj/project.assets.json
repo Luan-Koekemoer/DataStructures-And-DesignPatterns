@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "libDataStructures/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/libDataStructures.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/libDataStructures.dll": {}
+        }
+      },
+      "libDesignPatterns/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/libDesignPatterns.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/libDesignPatterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "libDataStructures/1.0.0": {
+      "type": "project",
+      "path": "../libDataStructures/libDataStructures.csproj",
+      "msbuildProject": "../libDataStructures/libDataStructures.csproj"
+    },
+    "libDesignPatterns/1.0.0": {
+      "type": "project",
+      "path": "../libDesignPatterns/libDesignPatterns.csproj",
+      "msbuildProject": "../libDesignPatterns/libDesignPatterns.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "libDataStructures >= 1.0.0",
+      "libDesignPatterns >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/luan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/luan/ComputerScience/Programming/CSharp/DataModels/Main/Main.csproj",
+      "projectName": "Main",
+      "projectPath": "/home/luan/ComputerScience/Programming/CSharp/DataModels/Main/Main.csproj",
+      "packagesPath": "/home/luan/.nuget/packages/",
+      "outputPath": "/home/luan/ComputerScience/Programming/CSharp/DataModels/Main/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/luan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/libDataStructures.csproj": {
+              "projectPath": "/home/luan/ComputerScience/Programming/CSharp/DataModels/libDataStructures/libDataStructures.csproj"
+            },
+            "/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/libDesignPatterns.csproj": {
+              "projectPath": "/home/luan/ComputerScience/Programming/CSharp/DataModels/libDesignPatterns/libDesignPatterns.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.0, 6.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

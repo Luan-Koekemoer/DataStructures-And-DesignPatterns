@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Main/1.0.0": {
+        "dependencies": {
+          "libDataStructures": "1.0.0",
+          "libDesignPatterns": "1.0.0"
+        },
+        "runtime": {
+          "Main.dll": {}
+        }
+      },
+      "libDataStructures/1.0.0": {
+        "runtime": {
+          "libDataStructures.dll": {}
+        }
+      },
+      "libDesignPatterns/1.0.0": {
+        "runtime": {
+          "libDesignPatterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "libDataStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "libDesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
